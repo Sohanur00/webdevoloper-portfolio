@@ -189,9 +189,19 @@ main section {
 
 .resum-column-title {
 
-    color: var(--dark-02, #474747);
-
+    color:  #474747);
     font-size: 30px;
-
     font-weight: 700;
+}
+
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item{
+
+    display: flex;
+    gap: 50px;
+    
 }
