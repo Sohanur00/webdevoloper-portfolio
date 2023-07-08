@@ -216,3 +216,11 @@ main section {
     text-align: center;
     margin: 50px;
 }
+/* footer styels */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin: 100px;
+
+}
