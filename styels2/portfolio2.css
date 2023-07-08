@@ -134,13 +134,17 @@ main{
     margin: 130px 0 ;
 }
   .about-info-container{
+    display: flex;
+    justify-content: space-around;
 
-display: flex;
 justify-content: space-around;
+text-align: center;
 
   }
 
   .about-info {
-text-align: center;
+
+    text-align: center;
+
 
   }
