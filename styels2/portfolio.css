@@ -186,7 +186,9 @@ main section {
     display: flex;
     gap: 50px
 }
-
+.skills{
+    display: flex;
+}
 .resume-item-title {
 
     color: #474747; 
@@ -201,15 +203,17 @@ main section {
 
     margin-bottom:20px;
     margin-top: 0px;
+    
 }
 
-.resume-item-institute,
+
 .resume-item-description {
     color: #757575;
 }
 
-.resume-container hr{
-    margin: 30px;
+.resume-container{
+    margin: 10px ;
+    display: flex;
 }
 
 .download-cv {
@@ -225,10 +229,10 @@ footer{
    
 
 }
-.footer-column{
 
-    width: 50px;
-}
+
+ 
+
 
 .social-link{
     margin-right:25px ;
